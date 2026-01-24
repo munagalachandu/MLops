@@ -1,2 +1,4 @@
 data/
 mlopsvenv/
+mlruns/
+mlflow.db
