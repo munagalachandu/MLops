@@ -66,5 +66,5 @@ print(accuracy_score(y_test,y_pred))
 # -----------------------------
 # 9. Save Model
 # -----------------------------
-#joblib.dump(model, "loan_risk_model.pkl")
-#print("Model saved as loan_risk_model.pkl")
+joblib.dump(model, "loan_risk_model.pkl")
+print("Model saved as loan_risk_model.pkl")
