@@ -1,7 +1,8 @@
+
+.env
 data/
 mlopsvenv/
 mlruns/
 mlflow.db
 logs/
 mlops1/
-.env
